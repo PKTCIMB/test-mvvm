@@ -6,9 +6,9 @@
 - [x] Connect API
 - [x] UITableView
 
+## Source
+[MVVM in iOS Swift](https://medium.com/@abhilash.mathur1891/mvvm-in-ios-swift-aa1448a66fb4)
+
 ```
 ||| Created by Marut S. |||
 ```
-
-## Source
-[MVVM in iOS Swift](https://medium.com/@abhilash.mathur1891/mvvm-in-ios-swift-aa1448a66fb4)
